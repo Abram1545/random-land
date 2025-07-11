@@ -45,7 +45,7 @@ It lets you generate secure, customized passwords using your own base name, digi
     sudo apt update  
     sudo apt install python3 git -y  
     git clone https://github.com/Abram1545/random-land.git  
-    cd random-land  
+    cd random_land  
     python3 random_land.py
 
 ---
@@ -55,7 +55,7 @@ It lets you generate secure, customized passwords using your own base name, digi
     pkg update && pkg upgrade -y  
     pkg install python git -y  
     git clone https://github.com/Abram1545/random-land.git
-    cd random-land  
+    cd random_land  
     python random_land.py
 
 ---
